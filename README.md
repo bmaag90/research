@@ -50,7 +50,7 @@ In this work, we propose a novel method to conduct infield testing of low-cost s
 **Authors**: Balz Maag, Olga Saukh, David Hasenfratz and Lothar Thiele<br>
 **Published:** In Proceedings of the 13th European Conference on Wireless Sensor Networks (EWSN 2016)<br>
 **Paper**: [PDF](./EWSN2016/ewsn2016_paper_1.pdf)<br>
-**Presented at:** EWSN 2016, Graz, Austria, [Slides](./EWSN2016/ewsn2016_slides.pdf)
+**Presented at:** EWSN 2016, Graz, Austria, [Slides](./EWSN2016/ewsn2016_slides_1.pdf)
 
 
 ## Collaborations
@@ -61,7 +61,7 @@ Accurate time synchronization is an important prerequisite for many applications
 
 **Authors**: Olga Saukh and Balz Maag<br>
 **Published:** In IEEE/ACM International Conference on Information Processing in Sensor Networks (IPSN 2019)<br>
-**Paper**: [PDF](./IPSN2019/ipsn2019_paper.pdf)<br>
+**Paper**: [PDF](./IPSN2019/IPSN2019_paper.pdf)<br>
 
 
 ### Time-of-Flight Aware Time Synchronization for Wireless Embedded Systems 
@@ -78,6 +78,6 @@ This paper introduces TRACELAB, a new testbed architecture that allows for fine-
 
 **Authors**: Roman Lim, Balz Maag, Benjamin Dissler, Jan Beutel and Lothar Thiele<br>
 **Published:** In IEEE Workshop on Practical Issues in Building Sensor Network Applications (SenseApp 2015)<br>
-**Paper**: [PDF](./Senseapp2015/senseapp2015_paper.pdf)<br>
+**Paper**: [PDF](./Senseapp2015/Senseapp2015_paper.pdf)<br>
 
 
