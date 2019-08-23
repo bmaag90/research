@@ -63,7 +63,7 @@ Urban air pollution monitoring with mobile, portable, low-cost sensors has attra
 **Published:** In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Vol.1, No.2<br>
 **DOI:** [10.1145/3090084](https://doi.org/10.1145/3090084)<br>
 **Paper**: [PDF](./IMWUT2017/imwut2017_paper.pdf)<br>
-**Presented at:** UBICOMP 2017, Maui, USA, [Slides](./IMWUT2017/imwut2017_slides.pdf)
+**Presented at:** UBICOMP 2017, Maui, USA, [Slides](./IMWUT2017/imwut2017_slides.pdf)<br>
 **Code**: [https://github.com/bmaag90/code_scan](https://github.com/bmaag90/code_scan)
 
 ### Pre-Deployment Testing, Augmentation and Calibration of Cross-Sensitive Sensors 
