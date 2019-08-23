@@ -2,6 +2,28 @@
 
 ## Main Projects
 
+### Enhancing Multi-Hop Sensor Calibration with Uncertainty Estimates
+
+***Best Innovation Paper Award***
+
+Low-cost sensors, installed on mobile vehicles, pro-vide a cost-effective way for fine-grained urban air pollution monitoring. 
+However, frequent calibration is crucial for low-cost sensors to consistently deliver accurate measurements.
+Multi-hop calibration is a common practice to calibrate mobile sensor deployments, but is prone to severe error accumulation over hops. 
+Prior research mitigates error accumulation by designing special calibration models, which only apply to linear models. 
+In this paper, we propose an orthogonal approach by selecting reliable measurements for calibration at each hop. 
+We analyze the impact of different data-induced uncertainties on calibration errors and devise a scheme to estimate these uncertainties of the calibrated outputs. 
+We further propose an uncertainty-based metric for data filtering at each hop. 
+We evaluate the effectiveness of our method in a real-world ozone
+sensor deployment. 
+Experimental results show that our method works with both linear and non-linear calibration models and reduces calibration errors in multi-hop setups by up to 25% compared with existing techniques.
+
+
+**Authors**: Balz Maag, Zimu Zhou and Lothar Thiele<br>
+**Published:**  IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2019). <br>
+**Paper**: [PDF](./UIC2019/uic2019_paper.pdf)<br>
+**Code**: [https://github.com/bmaag90/code_uncertainty](https://github.com/bmaag90/code_uncertainty)
+
+
 ### A Survey on Sensor Calibration in Air Pollution Monitoring Deployments 
 In this article, we review the state-of-the-art low-cost air pollution sensors, identify their major error sources, and comprehensively survey calibration
 models as well as network re-calibration strategies suited for different sensor deployments.
@@ -42,6 +64,7 @@ Urban air pollution monitoring with mobile, portable, low-cost sensors has attra
 **DOI:** [10.1145/3090084](https://doi.org/10.1145/3090084)<br>
 **Paper**: [PDF](./IMWUT2017/imwut2017_paper.pdf)<br>
 **Presented at:** UBICOMP 2017, Maui, USA, [Slides](./IMWUT2017/imwut2017_slides.pdf)
+**Code**: [https://github.com/bmaag90/code_scan](https://github.com/bmaag90/code_scan)
 
 ### Pre-Deployment Testing, Augmentation and Calibration of Cross-Sensitive Sensors 
 
